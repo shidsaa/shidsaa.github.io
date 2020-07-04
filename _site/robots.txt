@@ -1,1 +1,1 @@
-Sitemap: https://shidsaa.github.io/blog/sitemap.xml
+Sitemap: https://shidsaa.github.io/sitemap.xml
